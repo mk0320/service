@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="physical_disable" label="physical disable" language="en" table="x_367060_example_c_student_data">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>physical_disable</element>
+            <help/>
+            <hint/>
+            <label>physical disable</label>
+            <language>en</language>
+            <name>x_367060_example_c_student_data</name>
+            <plural>physical disables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-12 09:54:01</sys_created_on>
+            <sys_id>5e0fc8f0db4233005384e1bb4b96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>physical disable</sys_name>
+            <sys_package display_value="example client script" source="x_367060_example_c">0acc4c30db4233005384e1bb4b96193c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="example client script">0acc4c30db4233005384e1bb4b96193c</sys_scope>
+            <sys_update_name>sys_documentation_x_367060_example_c_student_data_physical_disable_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-12 09:54:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

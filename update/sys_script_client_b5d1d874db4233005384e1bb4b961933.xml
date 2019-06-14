@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>lastname</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>oneditcell example</name>
+        <order/>
+        <script><![CDATA[function onCellEdit(sysIDs, table, oldValues, newValue, callback) {
+  var saveAndClose = true;
+ //Type appropriate comment here, and begin script below
+ alert("u chaged this fied")
+ callback(saveAndClose); 
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 10:07:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b5d1d874db4233005384e1bb4b961933</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>oneditcell example</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="example client script" source="x_367060_example_c">0acc4c30db4233005384e1bb4b96193c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="example client script">0acc4c30db4233005384e1bb4b96193c</sys_scope>
+        <sys_update_name>sys_script_client_b5d1d874db4233005384e1bb4b961933</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 10:08:25</sys_updated_on>
+        <table>x_367060_example_c_student_data</table>
+        <type>onCellEdit</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

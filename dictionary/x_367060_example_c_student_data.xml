@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="student data" max_length="40" name="x_367060_example_c_student_data" type="collection">
+        <element label="fname" max_length="25" name="fname" type="string"/>
+        <element label="lastname" max_length="25" name="lastname" type="string_full_utf8"/>
+        <element label="percentage" max_length="40" name="percentage" type="integer"/>
+        <element label="physical disable" max_length="40" name="physical_disable" type="boolean"/>
+    </element>
+</database>

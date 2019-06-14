@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="logincident">c3499449db0233005384e1bb4b96191e</application>
+        <filter/>
+        <name>logincidents</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_367060_example_c.logincident_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 05:17:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8f499449db0233005384e1bb4b96192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>logincidents</sys_name>
+        <sys_package display_value="example client script" source="x_367060_example_c">0acc4c30db4233005384e1bb4b96193c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="example client script">0acc4c30db4233005384e1bb4b96193c</sys_scope>
+        <sys_update_name>sys_ui_module_8f499449db0233005384e1bb4b96192c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 05:17:20</sys_updated_on>
+        <table>x_367060_example_c_logincident</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

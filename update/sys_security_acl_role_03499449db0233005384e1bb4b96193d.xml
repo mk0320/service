@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 05:17:20</sys_created_on>
+        <sys_id>03499449db0233005384e1bb4b96193d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_367060_example_c_logincident.x_367060_example_c.logincident_user</sys_name>
+        <sys_package display_value="example client script" source="x_367060_example_c">0acc4c30db4233005384e1bb4b96193c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="example client script">0acc4c30db4233005384e1bb4b96193c</sys_scope>
+        <sys_security_acl display_value="x_367060_example_c_logincident">47499449db0233005384e1bb4b96193a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_03499449db0233005384e1bb4b96193d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 05:17:20</sys_updated_on>
+        <sys_user_role display_value="x_367060_example_c.logincident_user" name="x_367060_example_c.logincident_user">c3499449db0233005384e1bb4b961912</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
