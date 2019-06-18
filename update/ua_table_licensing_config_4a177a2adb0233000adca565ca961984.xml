@@ -4,22 +4,22 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>x_367060_example_c_logincidentbackup</name>
+        <name>x_367060_example_c_cq</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-06-13 06:45:17</sys_created_on>
-        <sys_id>536d6085db4233005384e1bb4b961919</sys_id>
+        <sys_created_on>2019-06-18 08:37:38</sys_created_on>
+        <sys_id>4a177a2adb0233000adca565ca961984</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_367060_example_c_logincidentbackup</sys_name>
+        <sys_name>x_367060_example_c_cq</sys_name>
         <sys_package display_value="example client script" source="x_367060_example_c">0acc4c30db4233005384e1bb4b96193c</sys_package>
         <sys_policy/>
         <sys_scope display_value="example client script">0acc4c30db4233005384e1bb4b96193c</sys_scope>
-        <sys_update_name>ua_table_licensing_config_536d6085db4233005384e1bb4b961919</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_4a177a2adb0233000adca565ca961984</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-13 06:45:17</sys_updated_on>
+        <sys_updated_on>2019-06-18 08:37:38</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>

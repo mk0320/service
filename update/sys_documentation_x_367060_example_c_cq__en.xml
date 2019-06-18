@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="logincidentbackup" language="en" table="x_367060_example_c_logincidentbackup">
+    <sys_documentation element="" label="cq" language="en" table="x_367060_example_c_cq">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>logincidentbackup</label>
+            <label>cq</label>
             <language>en</language>
-            <name>x_367060_example_c_logincidentbackup</name>
-            <plural>logincidentbackups</plural>
+            <name>x_367060_example_c_cq</name>
+            <plural>cqs</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-13 06:45:17</sys_created_on>
-            <sys_id>cae676e6db0233000adca565ca96196d</sys_id>
+            <sys_created_on>2019-06-18 08:37:38</sys_created_on>
+            <sys_id>0a177a2adb0233000adca565ca961979</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>logincidentbackup</sys_name>
+            <sys_name>cq</sys_name>
             <sys_package display_value="example client script" source="x_367060_example_c">0acc4c30db4233005384e1bb4b96193c</sys_package>
             <sys_policy/>
             <sys_scope display_value="example client script">0acc4c30db4233005384e1bb4b96193c</sys_scope>
-            <sys_update_name>sys_documentation_x_367060_example_c_logincidentbackup__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_367060_example_c_cq__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-13 06:45:17</sys_updated_on>
+            <sys_updated_on>2019-06-18 08:37:38</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
